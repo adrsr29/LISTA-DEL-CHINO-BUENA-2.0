@@ -94,6 +94,14 @@ http://activeott.cx:80/C77377135933/42013FDAF081/21322
 http://activeott.cx:80/C77377135933/42013FDAF081/320154
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="SP - M.LALIGA HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/MOVISTAR-PLUS.png" group-title="EU | SPAIN",SP - M.LALIGA HD
 http://activeott.cx:80/C77377135933/42013FDAF081/76718
+#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="ES| M+ LALIGATV BAR HEVC" tvg-logo="https://lo1.in/sp/mdepor1hd.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGATV BAR HEVC
+http://iptv365.xyz:80/5894793809/0552185698/187567
+#EXTINF:-1 tvg-id="" tvg-name="SP - LALIGA TV BAR HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/LALIGABAR.png" group-title="EU | SPAIN",SP - LALIGA TV BAR HD
+http://activeott.cx:80/C77377135933/42013FDAF081/288868
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="US - SUPERSPORT LA LIGA HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT LA LIGA HD
+http://activeott.cx:80/C77377135933/42013FDAF081/252099
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US - BeIN SPORTS LALIGA | UHD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BeINSPORTS.png" group-title="AM | USA | SPORTS",US - BeIN SPORTS LALIGA | UHD
+http://activeott.cx:80/C77377135933/42013FDAF081/72390
 #EXTINF:-1 tvg-id="teledeporte.es" tvg-name="SP - TELE DEPORTE" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/TELEDEPORTE.png" group-title="EU | SPAIN",SP - TELE DEPORTE
 http://activeott.cx:80/C77377135933/42013FDAF081/21291
 #EXTINF:-1 tvg-id="" tvg-name="SP - DAZN 1 HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/DAZNSPORT1.png" group-title="EU | SPAIN",SP - DAZN 1 HD
@@ -124,8 +132,6 @@ http://activeott.cx:80/C77377135933/42013FDAF081/76711
 http://activeott.cx:80/C77377135933/42013FDAF081/76703
 #EXTINF:-1 tvg-id="movistargolf.es" tvg-name="SP - M. GOLF HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/MGOLFHD.png" group-title="EU | SPAIN",SP - M. GOLF HD
 http://activeott.cx:80/C77377135933/42013FDAF081/76708
-#EXTINF:-1 tvg-id="" tvg-name="SP - LALIGA TV BAR HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/LALIGABAR.png" group-title="EU | SPAIN",SP - LALIGA TV BAR HD
-http://activeott.cx:80/C77377135933/42013FDAF081/288868
 #EXTINF:-1 tvg-id="" tvg-name="SP - LALIGA SMARTBANK TV HD" tvg-logo="http://logo.panel.cx/logo/SPAIN/laligasantander.png" group-title="EU | SPAIN",SP - LALIGA SMARTBANK TV HD
 http://activeott.cx:80/C77377135933/42013FDAF081/309441
 #EXTINF:-1 tvg-id="vamos.es" tvg-name="SP - #VAMOS HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/%23VAMOS.png" group-title="EU | SPAIN",SP - #VAMOS HD
