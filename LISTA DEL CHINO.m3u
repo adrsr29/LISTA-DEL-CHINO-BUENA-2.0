@@ -94,9 +94,11 @@ http://activeott.cx:80/C77377135933/42013FDAF081/21322
 http://activeott.cx:80/C77377135933/42013FDAF081/320154
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="SP - M.LALIGA HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/MOVISTAR-PLUS.png" group-title="EU | SPAIN",SP - M.LALIGA HD
 http://activeott.cx:80/C77377135933/42013FDAF081/76718
-#EXTINF:-1 PORQUE YO QUIERO
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="SP - LIGA TV BAR HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/MOVISTAR-PLUS.png" group-title="EU | SPAIN",SP - LIGA TV BAR
+http://iptv365.xyz:80/1648283091/1230536335/187567
+#EXTINF:-1 movistar la liga
 http://iptv365.xyz:80/5894793809/0552185698/187567
-#EXTINF:-1 tvg-id="" tvg-name="SP - LALIGA TV BAR HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/LALIGABAR.png" group-title="EU | SPAIN",SP - LALIGA TV BAR HD
+#EXTINF:-1 tvg-id="" tvg-name="SP - MOVISTAR LA LIGA O LALIGA TV BAR HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/LALIGABAR.png" group-title="EU | SPAIN",SP - LALIGA TV BAR HD
 http://activeott.cx:80/C77377135933/42013FDAF081/288868
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="US - SUPERSPORT LA LIGA HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/supersport-.png" group-title="AM | USA | SPORTS",US - SUPERSPORT LA LIGA HD
 http://activeott.cx:80/C77377135933/42013FDAF081/252099
