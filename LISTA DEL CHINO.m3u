@@ -92,15 +92,17 @@ http://activeott.cx:80/C77377135933/42013FDAF081/21276
 http://activeott.cx:80/C77377135933/42013FDAF081/21322
 #EXTINF:-1 tvg-id="gomundial.es" tvg-name="SP - GOL MUNDIAL 1 HD" tvg-logo="http://logo.panel.cx/logo/WORLDCUP/GOLMONDIAL.png" group-title="EU | SPAIN",SP - GOL MUNDIAL 1 HD
 http://activeott.cx:80/C77377135933/42013FDAF081/320154
-#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECTV SPORTS" tvg-logo="http://logo.panel.cx/logo/LATINO/DIRECTTVSPORTS.png" group-title="AM | USA | DEPORTES",LAT - DIRECTV SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECT TV SPORTS" tvg-logo="http://logo.panel.cx/logo/LATINO/DirecTV_Sports.png" group-title="EU | SPAIN",LAT - DIRECT TV SPORTS
+http://activeott.cx:80/C77377135933/42013FDAF081/325581
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECTV SPORTS" tvg-logo="http://logo.panel.cx/logo/LATINO/DIRECTTVSPORTS.png" group-title="EU | SPAIN",LAT - DIRECTV SPORTS
 http://activeott.cx:80/C77377135933/42013FDAF081/325570
-#EXTINF:-1 tvg-id="" tvg-name="UY - DIRECTV Sports Plus" tvg-logo="http://logo.panel.cx/logo/MAGFLAGS/URUGUAY.png" group-title="AM | LATINO",UY - DIRECTV Sports Plus
+#EXTINF:-1 tvg-id="" tvg-name="UY - DIRECTV Sports Plus" tvg-logo="http://logo.panel.cx/logo/MAGFLAGS/URUGUAY.png" group-title="EU | SPAIN",UY - DIRECTV Sports Plus
 http://activeott.cx:80/C77377135933/42013FDAF081/273362
-#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="LATINO - ESPN Deportes áµ›á¶¦áµ– â—‰" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/ESPN.png" group-title="AM | LATINO",LATINO - ESPN Deportes áµ›á¶¦áµ– â—‰
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="LATINO - ESPN Deportes áµ›á¶¦áµ– â—‰" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/ESPN.png" group-title="EU | SPAIN"
 http://activeott.cx:80/C77377135933/42013FDAF081/200139
-#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="US - ESPN DEPORTES | HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/ESPN.png" group-title="AM | USA | SPORTS",US - ESPN DEPORTES | HD
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="US - ESPN DEPORTES | HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/ESPN.png" group-title="EU | SPAIN",US - ESPN DEPORTES | HD
 http://activeott.cx:80/C77377135933/42013FDAF081/71925
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK - BT SPORTS 1 HD" tvg-logo="http://logo.panel.cx/logo/UK/BTSPORTS1.png" group-title="EU | UK SPORTS",UK - BT SPORTS 1 HD
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK - BT SPORTS 1 HD" tvg-logo="http://logo.panel.cx/logo/UK/BTSPORTS1.png" group-title="EU | SPAIN",UK - BT SPORTS 1 HD
 http://activeott.cx:80/C77377135933/42013FDAF081/17281
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="SP - M.LALIGA HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/MOVISTAR-PLUS.png" group-title="EU | SPAIN",SP - M.LALIGA HD
 http://activeott.cx:80/C77377135933/42013FDAF081/76718
