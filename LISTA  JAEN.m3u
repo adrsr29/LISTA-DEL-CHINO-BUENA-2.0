@@ -1,7 +1,7 @@
 #EXTM3
 #EXTINF:-1 tvg-id="" tvg-name="#####SP - SPAIN#####" tvg-logo="https://lo1.in/belg/flg.png" group-title="â–ºEU | SPAIN",#####SP - SPAIN#####
-#EXTINF:-1 tvg-id="la1.es" tvg-name="SP - LA 1 4K" tvg-logo="https://lo1.in/sp/la1hd.png" group-title="â–ºEU | SPAIN",SP - LA 1 4K
-http://extraott-iptv.com:88/7180490375/4314305273/165837
+#EXTINF:-1 tvg-id="la1.es" tvg-name="SP - LA 1 HD" tvg-logo="https://lo1.in/sp/la1hd.png" group-title="â–ºEU | SPAIN",SP - LA 1 HD
+http://extraott-iptv.com:88/7180490375/4314305273/165922
 #EXTINF:-1 tvg-id="la2.es" tvg-name="SP - LA 2 HD" tvg-logo="https://lo1.in/sp/la2.png" group-title="â–ºEU | SPAIN",SP - LA 2 HD
 http://extraott-iptv.com:88/7180490375/4314305273/165923
 #EXTINF:-1 tvg-id="antena3.es" tvg-name="SP - ANTENA 3 4K" tvg-logo="https://lo1.in/sp/antena3hd.png" group-title="â–ºEU | SPAIN",SP - ANTENA 3 4K
