@@ -39,38 +39,38 @@ https://streamer.zapitv.com/PTV-granada/index.m3u8
 https://streamer.zapitv.com/ptv-linarez/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="#####SP - SPAIN#####" tvg-logo="https://lo1.in/belg/flg.png" group-title="DOCUMENTALES",#####SP - SPAIN#####
-#EXTINF:-1 tvg-id="dmax.es" tvg-name="SP - DMAX 4K" tvg-logo="https://lo1.in/sp/dmax.png" group-title="DOCUMENTALES",SP - DMAX 4K
+#EXTINF:-1 tvg-id="DMAX" tvg-name="SP - DMAX 4K" tvg-logo="https://lo1.in/sp/dmax.png" group-title="DOCUMENTALES",SP - DMAX 4K
 http://extraott-iptv.com:88/7180490375/4314305273/5613
-#EXTINF:-1 tvg-id="historia.es" tvg-name="SP - HISTORIA HD" tvg-logo="https://lo1.in/sp/hist.png" group-title="DOCUMENTALES",SP - HISTORIA HD
+#EXTINF:-1 tvg-id="Historia" tvg-name="SP - HISTORIA HD" tvg-logo="https://lo1.in/sp/hist.png" group-title="DOCUMENTALES",SP - HISTORIA HD
 http://extraott-iptv.com:88/7180490375/4314305273/165994
 #EXTINF:-1 tvg-id="eltorotv.es" tvg-name="SP - VIAJAR HD" tvg-logo="https://lo1.in/sp/viajarhd.png" group-title="DOCUMENTALES",SP - VIAJAR HD
 http://nbr1.co:8000/giancarlo/giancarlo/35783
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="SP - NAT GEOGRAPHIC 4K" tvg-logo="https://lo1.in/sp/natgeohd.png" group-title="DOCUMENTALES",SP - NAT GEOGRAPHIC 4K
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="SP - NAT GEOGRAPHIC 4K" tvg-logo="https://lo1.in/sp/natgeohd.png" group-title="DOCUMENTALES",SP - NAT GEOGRAPHIC 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165986
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="SP - NAT GEO WILD 4K" tvg-logo="https://lo1.in/sp/ngwild.png" group-title="DOCUMENTALES",SP - NAT GEO WILD 4K
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="SP - NAT GEO WILD 4K" tvg-logo="https://lo1.in/sp/ngwild.png" group-title="DOCUMENTALES",SP - NAT GEO WILD 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165900
-#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="SP - IBERALIA TV 4K" tvg-logo="https://lo1.in/sp/iberalia.png" group-title="DOCUMENTALES",SP - IBERALIA TV 4K
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="SP - IBERALIA TV 4K" tvg-logo="https://lo1.in/sp/iberalia.png" group-title="DOCUMENTALES",SP - IBERALIA TV 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165898
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYsl5e6jEIMtXIoTUHvkJqXxDfASrvQP_QFRRww=s200" group-title="DOCUMENTALES" tvg-name="Andalucía Turismo",Andalucía Turismo
 https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES - CANAL ODISEA 4K" tvg-logo="https://lo1.in/sp/caodi.png" group-title="DOCUMENTALES",ES - CANAL ODISEA 4K
+#EXTINF:-1 tvg-id="Odisea" tvg-name="ES - CANAL ODISEA 4K" tvg-logo="https://lo1.in/sp/caodi.png" group-title="DOCUMENTALES",ES - CANAL ODISEA 4K
 http://extraott-iptv.com:88/7180490375/4314305273/400241870
-#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="SP - DISCOVERY CHANNEL 4K" tvg-logo="https://lo1.in/sp/disco.png" group-title="DOCUMENTALES",SP - DISCOVERY CHANNEL 4K
+#EXTINF:-1 tvg-id="Discovery" tvg-name="SP - DISCOVERY CHANNEL 4K" tvg-logo="https://lo1.in/sp/disco.png" group-title="DOCUMENTALES",SP - DISCOVERY CHANNEL 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165902
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="SP - CAZA & PESCA 4K" tvg-logo="https://lo1.in/sp/cazaype.png" group-title="DOCUMENTALES",SP - CAZA & PESCA 4K
-http://extraott-iptv.com:88/7180490375/4314305273/189479
-#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="SP - MEZZO LIVE 4K" tvg-logo="https://lo1.in/sp/mezlvhd.png" group-title="DOCUMENTALES",SP - MEZZO LIVE 4K
+#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="SP - CAZA & PESCA 4K" tvg-logo="https://lo1.in/sp/cazaype.png" group-title="DOCUMENTALES",SP - CAZA & PESCA 4K
+http://extraott-iptv.com:88/7180490375/4314305273/165990
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="SP - MEZZO LIVE 4K" tvg-logo="https://lo1.in/sp/mezlvhd.png" group-title="DOCUMENTALES",SP - MEZZO LIVE 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165921
-#EXTINF:-1 tvg-id="classica.es" tvg-name="SP - CLASSICA 4K" tvg-logo="https://lo1.in/sp/classica.png" group-title="DOCUMENTALES",SP - CLASSICA 4K
+#EXTINF:-1 tvg-id="Classica HD" tvg-name="SP - CLASSICA 4K" tvg-logo="https://lo1.in/sp/classica.png" group-title="DOCUMENTALES",SP - CLASSICA 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165920
 #EXTINF:-1 tvg-id="" tvg-name="##### SP - SPORTS #####" tvg-logo="https://lo1.in/sp/sp.png" group-title="â–ºEU | SPAIN SPORTS",##### SP - SPORTS #####
 #EXTINF:-1 tvg-id="TDP.TV" tvg-name="TDP.TV" tvg-logo="https://lo1.in/sp/teledepo.png" group-title="â–ºEU | SPAIN SPORTS",SP - TELEDEPORTE HD
 http://extraott-iptv.com:88/7180490375/4314305273/165978
 #EXTINF:-1 tvg-id="GOL.TV" tvg-name="SP - GOL TV 4K" tvg-logo="https://lo1.in/sp/gol.png" group-title="â–ºEU | SPAIN SPORTS",SP - GOL TV 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165892
-#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="SP - REAL MADRID TV UHD" tvg-logo="https://lo1.in/sp/rmatv.png" group-title="â–ºEU | SPAIN SPORTS",SP - REAL MADRID TV UHD
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="SP - REAL MADRID TV UHD" tvg-logo="https://lo1.in/sp/rmatv.png" group-title="â–ºEU | SPAIN SPORTS",SP - REAL MADRID TV UHD
 http://extraott-iptv.com:88/7180490375/4314305273/165894
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="SP - M+ LALIGA HD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="â–ºEU | SPAIN SPORTS",SP - M+ LALIGA HD
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="SP - M+ LALIGA HD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="â–ºEU | SPAIN SPORTS",SP - M+ LALIGA HD
 http://extraott-iptv.com:88/7180490375/4314305273/165970
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES - M. LaLiga SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="â–ºEU | SPAIN SPORTS",ES - M. LaLiga SD
 http://extraott-iptv.com:88/7180490375/4314305273/400218244
@@ -170,7 +170,7 @@ http://extraott-iptv.com:88/7180490375/4314305273/400218228
 http://extraott-iptv.com:88/7180490375/4314305273/400218227
 #EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES - DAZN 4 SD" tvg-logo="https://lo1.in/sp/dazn4.png" group-title="â–ºEU | SPAIN SPORTS",ES - DAZN 4 SD
 http://extraott-iptv.com:88/7180490375/4314305273/400218226
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES - M.L CAMPEONES SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="â–ºEU | SPAIN SPORTS",ES - M.L CAMPEONES SD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES - M.L CAMPEONES SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="â–ºEU | SPAIN SPORTS",ES - M.L CAMPEONES SD
 http://extraott-iptv.com:88/7180490375/4314305273/400218282
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES - M. LCAMPEONS 4K" tvg-logo="https://lo1.in/sp/lgcamp.png" group-title="â–ºEU | SPAIN SPORTS",ES - M. LCAMPEONS 4K
 http://extraott-iptv.com:88/7180490375/4314305273/400241868
