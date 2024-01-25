@@ -1,20 +1,20 @@
 #EXTM3
 #EXTINF:-1 tvg-id="" tvg-name="#####SP - SPAIN#####" tvg-logo="https://lo1.in/belg/flg.png" group-title="â–ºEU | SPAIN",#####SP - SPAIN#####
-#EXTINF:-1 tvg-id="la1.es" tvg-name="SP - LA 1 HD" tvg-logo="https://lo1.in/sp/la1hd.png" group-title="â–ºEU | SPAIN",SP - LA 1 HD
+#EXTINF:-1 tvg-id="la1.es" tvg-name="La1.TV" tvg-logo="https://lo1.in/sp/la1hd.png" group-title="â–ºEU | SPAIN",SP - LA 1 HD
 http://extraott-iptv.com:88/7180490375/4314305273/165922
-#EXTINF:-1 tvg-id="la2.es" tvg-name="SP - LA 2 HD" tvg-logo="https://lo1.in/sp/la2.png" group-title="â–ºEU | SPAIN",SP - LA 2 HD
+#EXTINF:-1 tvg-id="la2.es" tvg-name="La2.TV" tvg-logo="https://lo1.in/sp/la2.png" group-title="â–ºEU | SPAIN",SP - LA 2 HD
 http://extraott-iptv.com:88/7180490375/4314305273/165923
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="SP - ANTENA 3 4K" tvg-logo="https://lo1.in/sp/antena3hd.png" group-title="â–ºEU | SPAIN",SP - ANTENA 3 4K
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="Antena3.TV" tvg-logo="https://lo1.in/sp/antena3hd.png" group-title="â–ºEU | SPAIN",SP - ANTENA 3 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165842
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="SP - CUATRO 4K" tvg-logo="https://lo1.in/sp/cuatro.png" group-title="â–ºEU | SPAIN",SP - CUATRO 4K
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="Cuatro.TV" tvg-logo="https://lo1.in/sp/cuatro.png" group-title="â–ºEU | SPAIN",SP - CUATRO 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165843
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="SP - TELECINCO HD" tvg-logo="https://lo1.in/sp/telecinhd.png" group-title="â–ºEU | SPAIN",SP - TELECINCO HD
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="Telecinco.TV" tvg-logo="https://lo1.in/sp/telecinhd.png" group-title="â–ºEU | SPAIN",SP - TELECINCO HD
 http://extraott-iptv.com:88/7180490375/4314305273/165929
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="SP - LA SEXTA 4K" tvg-logo="https://lo1.in/sp/sextahd.png" group-title="â–ºEU | SPAIN",SP - LA SEXTA 4K
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LaSexta.TV" tvg-logo="https://lo1.in/sp/sextahd.png" group-title="â–ºEU | SPAIN",SP - LA SEXTA 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165845
-#EXTINF:-1 tvg-id="canalsur.es" tvg-name="SP - CANAL SUR A 4K" tvg-logo="https://lo1.in/sp/casur.png" group-title="â–ºEU | SPAIN",SP - CANAL SUR A 4K
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="CanalSurA.TV" tvg-logo="https://lo1.in/sp/casur.png" group-title="â–ºEU | SPAIN",SP - CANAL SUR A 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165850
-#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="SP - TELEDEPORTE HD" tvg-logo="https://lo1.in/sp/teledepo.png" group-title="â–ºEU | SPAIN SPORTS",SP - TELEDEPORTE HD
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="TDP.TV" tvg-logo="https://lo1.in/sp/teledepo.png" group-title="â–ºEU | SPAIN SPORTS",SP - TELEDEPORTE HD
 http://extraott-iptv.com:88/7180490375/4314305273/165978
 #EXTINF:-1 tvg-id="gol.es" tvg-name="SP - GOL TV 4K" tvg-logo="https://lo1.in/sp/gol.png" group-title="â–ºEU | SPAIN SPORTS",SP - GOL TV 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165892
