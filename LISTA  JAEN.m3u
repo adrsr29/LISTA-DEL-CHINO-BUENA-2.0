@@ -1,25 +1,25 @@
 #EXTM3
 #EXTINF:-1 tvg-id="" tvg-name="#####SP - SPAIN#####" tvg-logo="https://lo1.in/belg/flg.png" group-title="TDT",#####SP - SPAIN#####
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="La1.TV" tvg-logo="https://lo1.in/sp/la1hd.png" group-title="TDT",SP - LA 1 HD
+#EXTINF:-1 tvg-id="LA 1" tvg-name="La1.TV" tvg-logo="https://lo1.in/sp/la1hd.png" group-title="TDT",SP - LA 1 HD
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-id="La2.TV" tvg-name="La2.TV" tvg-logo="https://lo1.in/sp/la2.png" group-title="TDT",SP - LA 2 HD
+#EXTINF:-1 tvg-id="LA 2" tvg-name="La2.TV" tvg-logo="https://lo1.in/sp/la2.png" group-title="TDT",SP - LA 2 HD
 http://extraott-iptv.com:88/7180490375/4314305273/165923
-#EXTINF:-1 tvg-id="Antena3.TV" tvg-name="Antena3.TV" tvg-logo="https://lo1.in/sp/antena3hd.png" group-title="TDT",SP - ANTENA 3 4K
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena3.TV" tvg-logo="https://lo1.in/sp/antena3hd.png" group-title="TDT",SP - ANTENA 3 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165842
-#EXTINF:-1 tvg-id="Cuatro.TV" tvg-name="Cuatro.TV" tvg-logo="https://lo1.in/sp/cuatro.png" group-title="TDT",SP - CUATRO 4K
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro.TV" tvg-logo="https://lo1.in/sp/cuatro.png" group-title="TDT",SP - CUATRO 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165843
-#EXTINF:-1 tvg-id="Telecinco.TV" tvg-name="Telecinco.TV" tvg-logo="https://lo1.in/sp/telecinhd.png" group-title="TDT",SP - TELECINCO HD
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco.TV" tvg-logo="https://lo1.in/sp/telecinhd.png" group-title="TDT",SP - TELECINCO HD
 http://extraott-iptv.com:88/7180490375/4314305273/400218266
-#EXTINF:-1 tvg-id="LaSexta.TV" tvg-name="LaSexta.TV" tvg-logo="https://lo1.in/sp/sextahd.png" group-title="TDT",SP - LA SEXTA 4K
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="LaSexta.TV" tvg-logo="https://lo1.in/sp/sextahd.png" group-title="TDT",SP - LA SEXTA 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165845
-#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-name="CanalSurA.TV" tvg-logo="https://lo1.in/sp/casur.png" group-title="TDT",SP - CANAL SUR A 4K
+#EXTINF:-1 tvg-id="Canal Sur" tvg-name="CanalSurA.TV" tvg-logo="https://lo1.in/sp/casur.png" group-title="TDT",SP - CANAL SUR A 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165850
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="SP - CANAL 24 HORAS 4K" tvg-logo="https://lo1.in/sp/ca24hrs.png" group-title="TDT",SP - CANAL 24 HORAS 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165839
-#EXTINF:-1 tvg-id="Mega.TV" tvg-name="SP - MEGA 4K" tvg-logo="https://lo1.in/sp/megahd.png" group-title="TDT",SP - MEGA 4K
+#EXTINF:-1 tvg-id="Mega" tvg-name="SP - MEGA 4K" tvg-logo="https://lo1.in/sp/megahd.png" group-title="TDT",SP - MEGA 4K
 http://extraott-iptv.com:88/7180490375/4314305273/5633
 #EXTINF:-1 tvg-id="" tvg-name="#####SP - SPAIN#####" tvg-logo="https://lo1.in/belg/flg.png" group-title="AUTONOMICAS",#####SP - SPAIN#####
-#EXTINF:-1 tvg-id="TPA.TV" tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=200&height=200" group-title="AUTONOMICAS" tvg-name="TPA7",TPA7
+#EXTINF:-1 tvg-id="TPA" tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=200&height=200" group-title="AUTONOMICAS" tvg-name="TPA7",TPA7
 https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/VinxTV/picture?width=200&height=200" group-title="AUTONOMICAS" tvg-name="Vinx TV Asturias",Vinx TV Asturias
 https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
