@@ -1,7 +1,7 @@
 #EXTM3
 #EXTINF:-1 tvg-id="" tvg-name="#####SP - SPAIN#####" tvg-logo="https://lo1.in/belg/flg.png" group-title="TDT",#####SP - SPAIN#####
 #EXTINF:-1 tvg-id="La1.TV" tvg-name="La1.TV" tvg-logo="https://lo1.in/sp/la1hd.png" group-title="TDT",SP - LA 1 HD
-http://extraott-iptv.com:88/7180490375/4314305273/165922
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-name="La2.TV" tvg-logo="https://lo1.in/sp/la2.png" group-title="TDT",SP - LA 2 HD
 http://extraott-iptv.com:88/7180490375/4314305273/165923
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-name="Antena3.TV" tvg-logo="https://lo1.in/sp/antena3hd.png" group-title="TDT",SP - ANTENA 3 4K
@@ -9,20 +9,46 @@ http://extraott-iptv.com:88/7180490375/4314305273/165842
 #EXTINF:-1 tvg-id="Cuatro.TV" tvg-name="Cuatro.TV" tvg-logo="https://lo1.in/sp/cuatro.png" group-title="TDT",SP - CUATRO 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165843
 #EXTINF:-1 tvg-id="Telecinco.TV" tvg-name="Telecinco.TV" tvg-logo="https://lo1.in/sp/telecinhd.png" group-title="TDT",SP - TELECINCO HD
-http://extraott-iptv.com:88/7180490375/4314305273/165929
+http://extraott-iptv.com:88/7180490375/4314305273/400218266
 #EXTINF:-1 tvg-id="LaSexta.TV" tvg-name="LaSexta.TV" tvg-logo="https://lo1.in/sp/sextahd.png" group-title="TDT",SP - LA SEXTA 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165845
 #EXTINF:-1 tvg-id="CanalSurA.TV" tvg-name="CanalSurA.TV" tvg-logo="https://lo1.in/sp/casur.png" group-title="TDT",SP - CANAL SUR A 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165850
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="SP - CANAL 24 HORAS 4K" tvg-logo="https://lo1.in/sp/ca24hrs.png" group-title="TDT",SP - CANAL 24 HORAS 4K
+http://extraott-iptv.com:88/7180490375/4314305273/165839
+#EXTINF:-1 tvg-id="Mega.TV" tvg-name="SP - MEGA 4K" tvg-logo="https://lo1.in/sp/megahd.png" group-title="TDT",SP - MEGA 4K
+http://extraott-iptv.com:88/7180490375/4314305273/5633
+#EXTINF:-1 tvg-id="TPA.TV" tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=200&height=200" group-title="TDT" tvg-name="TPA7",TPA7
+https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="" tvg-name="#####SP - SPAIN#####" tvg-logo="https://lo1.in/belg/flg.png" group-title="DOCUMENTALES",#####SP - SPAIN#####
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="SP - DMAX 4K" tvg-logo="https://lo1.in/sp/dmax.png" group-title="DOCUMENTALES",SP - DMAX 4K
+http://extraott-iptv.com:88/7180490375/4314305273/5613
+#EXTINF:-1 tvg-id="historia.es" tvg-name="SP - HISTORIA HD" tvg-logo="https://lo1.in/sp/hist.png" group-title="DOCUMENTALES",SP - HISTORIA HD
+http://extraott-iptv.com:88/7180490375/4314305273/165994
+#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="SP - VIAJAR HD" tvg-logo="https://lo1.in/sp/viajarhd.png" group-title="DOCUMENTALES",SP - VIAJAR HD
+http://extraott-iptv.com:88/7180490375/4314305273/165995
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="SP - NAT GEOGRAPHIC 4K" tvg-logo="https://lo1.in/sp/natgeohd.png" group-title="DOCUMENTALES",SP - NAT GEOGRAPHIC 4K
+http://extraott-iptv.com:88/7180490375/4314305273/165901
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="SP - NAT GEO WILD 4K" tvg-logo="https://lo1.in/sp/ngwild.png" group-title="DOCUMENTALES",SP - NAT GEO WILD 4K
+http://extraott-iptv.com:88/7180490375/4314305273/165900
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="SP - IBERALIA TV 4K" tvg-logo="https://lo1.in/sp/iberalia.png" group-title="DOCUMENTALES",SP - IBERALIA TV 4K
+http://extraott-iptv.com:88/7180490375/4314305273/165898
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES - CANAL ODISEA 4K" tvg-logo="https://lo1.in/sp/caodi.png" group-title="DOCUMENTALES",ES - CANAL ODISEA 4K
+http://extraott-iptv.com:88/7180490375/4314305273/400241870
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="SP - DISCOVERY CHANNEL 4K" tvg-logo="https://lo1.in/sp/disco.png" group-title="DOCUMENTALES",SP - DISCOVERY CHANNEL 4K
+http://extraott-iptv.com:88/7180490375/4314305273/165902
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="SP - CAZA & PESCA 4K" tvg-logo="https://lo1.in/sp/cazaype.png" group-title="DOCUMENTALES",SP - CAZA & PESCA 4K
+http://extraott-iptv.com:88/7180490375/4314305273/165905
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="SP - MEZZO LIVE 4K" tvg-logo="https://lo1.in/sp/mezlvhd.png" group-title="DOCUMENTALES",SP - MEZZO LIVE 4K
+http://extraott-iptv.com:88/7180490375/4314305273/165921
+#EXTINF:-1 tvg-id="classica.es" tvg-name="SP - CLASSICA 4K" tvg-logo="https://lo1.in/sp/classica.png" group-title="DOCUMENTALES",SP - CLASSICA 4K
+http://extraott-iptv.com:88/7180490375/4314305273/165920
+#EXTINF:-1 tvg-id="" tvg-name="##### SP - SPORTS #####" tvg-logo="https://lo1.in/sp/sp.png" group-title="â–ºEU | SPAIN SPORTS",##### SP - SPORTS #####
 #EXTINF:-1 tvg-id="TDP.TV" tvg-name="TDP.TV" tvg-logo="https://lo1.in/sp/teledepo.png" group-title="â–ºEU | SPAIN SPORTS",SP - TELEDEPORTE HD
 http://extraott-iptv.com:88/7180490375/4314305273/165978
 #EXTINF:-1 tvg-id="GOL.TV" tvg-name="SP - GOL TV 4K" tvg-logo="https://lo1.in/sp/gol.png" group-title="â–ºEU | SPAIN SPORTS",SP - GOL TV 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165892
-#EXTINF:-1 tvg-id="Mega.TV" tvg-name="SP - MEGA 4K" tvg-logo="https://lo1.in/sp/megahd.png" group-title="â–ºEU | SPAIN",SP - MEGA 4K
-http://extraott-iptv.com:88/7180490375/4314305273/5633
-#EXTINF:-1 tvg-id="historia.es" tvg-name="SP - HISTORIA HD" tvg-logo="https://lo1.in/sp/hist.png" group-title="â–ºEU | SPAIN",SP - HISTORIA HD
-http://extraott-iptv.com:88/7180490375/4314305273/165994
-#EXTINF:-1 tvg-id="" tvg-name="##### SP - SPORTS #####" tvg-logo="https://lo1.in/sp/sp.png" group-title="â–ºEU | SPAIN SPORTS",##### SP - SPORTS #####
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="SP - M+ LALIGA HD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="â–ºEU | SPAIN SPORTS",SP - M+ LALIGA HD
 http://extraott-iptv.com:88/7180490375/4314305273/165970
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES - M. LaLiga SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="â–ºEU | SPAIN SPORTS",ES - M. LaLiga SD
