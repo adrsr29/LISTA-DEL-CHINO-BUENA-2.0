@@ -18,8 +18,15 @@ http://extraott-iptv.com:88/7180490375/4314305273/165850
 http://extraott-iptv.com:88/7180490375/4314305273/165839
 #EXTINF:-1 tvg-id="Mega.TV" tvg-name="SP - MEGA 4K" tvg-logo="https://lo1.in/sp/megahd.png" group-title="TDT",SP - MEGA 4K
 http://extraott-iptv.com:88/7180490375/4314305273/5633
-#EXTINF:-1 tvg-id="TPA.TV" tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=200&height=200" group-title="TDT" tvg-name="TPA7",TPA7
+#EXTINF:-1 tvg-id="" tvg-name="#####SP - SPAIN#####" tvg-logo="https://lo1.in/belg/flg.png" group-title="AUTONOMICAS",#####SP - SPAIN#####
+#EXTINF:-1 tvg-id="TPA.TV" tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=200&height=200" group-title="AUTONOMICAS" tvg-name="TPA7",TPA7
 https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/VinxTV/picture?width=200&height=200" group-title="AUTONOMICAS" tvg-name="Vinx TV Asturias",Vinx TV Asturias
+https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal45television/picture?width=200&height=200" group-title="AUTONOMICAS" tvg-name="Canal 45 TV",Canal 45 TV
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+#EXTINF:-1 tvg-id="7TVAndaluciaJaen.es" tvg-name="7 TV Andalucía (Jaén)" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="AUTONOMICAS",7 TV Andalucía (Jaén)
+https://dcunilive266-lh.akamaihd.net/i/dclive_1@426886/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="#####SP - SPAIN#####" tvg-logo="https://lo1.in/belg/flg.png" group-title="DOCUMENTALES",#####SP - SPAIN#####
 #EXTINF:-1 tvg-id="dmax.es" tvg-name="SP - DMAX 4K" tvg-logo="https://lo1.in/sp/dmax.png" group-title="DOCUMENTALES",SP - DMAX 4K
@@ -27,19 +34,21 @@ http://extraott-iptv.com:88/7180490375/4314305273/5613
 #EXTINF:-1 tvg-id="historia.es" tvg-name="SP - HISTORIA HD" tvg-logo="https://lo1.in/sp/hist.png" group-title="DOCUMENTALES",SP - HISTORIA HD
 http://extraott-iptv.com:88/7180490375/4314305273/165994
 #EXTINF:-1 tvg-id="eltorotv.es" tvg-name="SP - VIAJAR HD" tvg-logo="https://lo1.in/sp/viajarhd.png" group-title="DOCUMENTALES",SP - VIAJAR HD
-http://extraott-iptv.com:88/7180490375/4314305273/165995
+http://extraott-iptv.com:88/7180490375/4314305273/400218229
 #EXTINF:-1 tvg-id="natgeo.es" tvg-name="SP - NAT GEOGRAPHIC 4K" tvg-logo="https://lo1.in/sp/natgeohd.png" group-title="DOCUMENTALES",SP - NAT GEOGRAPHIC 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165901
 #EXTINF:-1 tvg-id="natgeowild.es" tvg-name="SP - NAT GEO WILD 4K" tvg-logo="https://lo1.in/sp/ngwild.png" group-title="DOCUMENTALES",SP - NAT GEO WILD 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165900
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="SP - IBERALIA TV 4K" tvg-logo="https://lo1.in/sp/iberalia.png" group-title="DOCUMENTALES",SP - IBERALIA TV 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165898
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYsl5e6jEIMtXIoTUHvkJqXxDfASrvQP_QFRRww=s200" group-title="DOCUMENTALES" tvg-name="Andalucía Turismo",Andalucía Turismo
+https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
 #EXTINF:-1 tvg-id="odisea.es" tvg-name="ES - CANAL ODISEA 4K" tvg-logo="https://lo1.in/sp/caodi.png" group-title="DOCUMENTALES",ES - CANAL ODISEA 4K
 http://extraott-iptv.com:88/7180490375/4314305273/400241870
 #EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="SP - DISCOVERY CHANNEL 4K" tvg-logo="https://lo1.in/sp/disco.png" group-title="DOCUMENTALES",SP - DISCOVERY CHANNEL 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165902
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="SP - CAZA & PESCA 4K" tvg-logo="https://lo1.in/sp/cazaype.png" group-title="DOCUMENTALES",SP - CAZA & PESCA 4K
-http://extraott-iptv.com:88/7180490375/4314305273/165905
+http://extraott-iptv.com:88/7180490375/4314305273/189479
 #EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="SP - MEZZO LIVE 4K" tvg-logo="https://lo1.in/sp/mezlvhd.png" group-title="DOCUMENTALES",SP - MEZZO LIVE 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165921
 #EXTINF:-1 tvg-id="classica.es" tvg-name="SP - CLASSICA 4K" tvg-logo="https://lo1.in/sp/classica.png" group-title="DOCUMENTALES",SP - CLASSICA 4K
