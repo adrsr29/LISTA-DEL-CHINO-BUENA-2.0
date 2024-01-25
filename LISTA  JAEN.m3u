@@ -25,8 +25,34 @@ https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
 https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal45television/picture?width=200&height=200" group-title="AUTONOMICAS" tvg-name="Canal 45 TV",Canal 45 TV
 https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
-#EXTINF:-1 tvg-id="7TVAndaluciaJaen.es" tvg-name="7 TV Andalucía (Jaén)" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="AUTONOMICAS",7 TV Andalucía (Jaén)
+#EXTINF:-1 tvg-id="9LaLoma.TV" tvg-logo="https://graph.facebook.com/9laloma/picture?width=200&height=200" group-title="AUTONIMICAS" tvg-name="9 la Loma TV",9 la Loma TV
+https://9laloma.tv/live.m3u8
+#EXTINF:-1 tvg-id="DiezTV.es" tvg-name="Diez TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5KXkBbs.jpg" group-title="AUTONOMICAS",Diez TV
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/SevillaPTV/picture?width=200&height=200" group-title="AUTONOMICAS" tvg-name="PTV Sevilla",PTV Sevilla
+https://streamer.zapitv.com/PTV_sevilla/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVCOR/picture?width=200&height=200" group-title="AUTONOMICAS" tvg-name="PTV Córdoba",PTV Córdoba
+https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVGranada/picture?width=200&height=200" group-title="AUTONOMICAS" tvg-name="PTV Granada",PTV Granada
+https://streamer.zapitv.com/PTV-granada/index.m3u8
+#EXTINF:-1 tvg-id="7TVAndalucia.es" tvg-name="7 TV Andalucía" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="News",7 TV Andalucía
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835804/master.m3u8
+#EXTINF:-1 tvg-id="7TVAndaluciaBahia.es" tvg-name="7 TV Andalucía (Bahía)" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="News",7 TV Andalucía (Bahía)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835790/master.m3u8
+#EXTINF:-1 tvg-id="7TVAndaluciaCordoba.es" tvg-name="7 TV Andalucía (Córdoba)" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="News",7 TV Andalucía (Córdoba)
+https://dcunilive265-lh.akamaihd.net/i/dclive_1@409360/master.m3u8
+#EXTINF:-1 tvg-id="7TVAndaluciaCostaNoroeste.es" tvg-name="7 TV Andalucía (Costa Noroeste)" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="News",7 TV Andalucía (Costa Noroeste)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835802/master.m3u8
+#EXTINF:-1 tvg-id="7TVAndaluciaJaen.es" tvg-name="7 TV Andalucía (Jaén)" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="News",7 TV Andalucía (Jaén)
 https://dcunilive266-lh.akamaihd.net/i/dclive_1@426886/master.m3u8
+#EXTINF:-1 tvg-id="7TVAndaluciaJerez.es" tvg-name="7 TV Andalucía (Jerez)" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="News",7 TV Andalucía (Jerez)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835794/master.m3u8
+#EXTINF:-1 tvg-id="7TVAndaluciaMalaga.es" tvg-name="7 TV Andalucía (Málaga)" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="News",7 TV Andalucía (Málaga)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835798/master.m3u8
+#EXTINF:-1 tvg-id="7TVAndaluciaSevilla.es" tvg-name="7 TV Andalucía (Sevilla)" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="News",7 TV Andalucía (Sevilla)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835800/master.m3u8
+#EXTINF:-1 tvg-id="7TVAndaluciaSierra.es" tvg-name="7 TV Andalucía (Sierra)" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="News",7 TV Andalucía (Sierra)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835792/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="#####SP - SPAIN#####" tvg-logo="https://lo1.in/belg/flg.png" group-title="DOCUMENTALES",#####SP - SPAIN#####
 #EXTINF:-1 tvg-id="dmax.es" tvg-name="SP - DMAX 4K" tvg-logo="https://lo1.in/sp/dmax.png" group-title="DOCUMENTALES",SP - DMAX 4K
@@ -34,7 +60,7 @@ http://extraott-iptv.com:88/7180490375/4314305273/5613
 #EXTINF:-1 tvg-id="historia.es" tvg-name="SP - HISTORIA HD" tvg-logo="https://lo1.in/sp/hist.png" group-title="DOCUMENTALES",SP - HISTORIA HD
 http://extraott-iptv.com:88/7180490375/4314305273/165994
 #EXTINF:-1 tvg-id="eltorotv.es" tvg-name="SP - VIAJAR HD" tvg-logo="https://lo1.in/sp/viajarhd.png" group-title="DOCUMENTALES",SP - VIAJAR HD
-http://extraott-iptv.com:88/7180490375/4314305273/400218229
+http://extraott-iptv.com:88/7180490375/4314305273/7192
 #EXTINF:-1 tvg-id="natgeo.es" tvg-name="SP - NAT GEOGRAPHIC 4K" tvg-logo="https://lo1.in/sp/natgeohd.png" group-title="DOCUMENTALES",SP - NAT GEOGRAPHIC 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165901
 #EXTINF:-1 tvg-id="natgeowild.es" tvg-name="SP - NAT GEO WILD 4K" tvg-logo="https://lo1.in/sp/ngwild.png" group-title="DOCUMENTALES",SP - NAT GEO WILD 4K
