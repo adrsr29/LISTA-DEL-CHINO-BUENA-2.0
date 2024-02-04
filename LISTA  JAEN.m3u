@@ -64,6 +64,8 @@ http://extraott-iptv.com:88/7180490375/4314305273/165921
 #EXTINF:-1 tvg-id="Classica" tvg-name="SP - CLASSICA 4K" tvg-logo="https://lo1.in/sp/classica.png" group-title="DOCUMENTALES",SP - CLASSICA 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165920
 #EXTINF:-1 tvg-id="" tvg-name="##### SP - SPORTS #####" tvg-logo="https://lo1.in/sp/sp.png" group-title="â–ºEU | SPAIN SPORTS",##### SP - SPORTS #####
+#EXTINF:-1 tvg-id="" tvg-name="ES ORGO: M LALIGATV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13696.png?ver=29798" group-title="â–ºEU | SPAIN SPORTS",ES ORGO: M LALIGATV 4K
+http://cf.goldvpn.me:80/edb5ce7a80/636e71de70/658386
 #EXTINF:-1 tvg-id="TDP.TV" tvg-name="TDP.TV" tvg-logo="https://lo1.in/sp/teledepo.png" group-title="â–ºEU | SPAIN SPORTS",SP - TELEDEPORTE HD
 http://extraott-iptv.com:88/7180490375/4314305273/165978
 #EXTINF:-1 tvg-id="GOL.TV" tvg-name="SP - GOL TV 4K" tvg-logo="https://lo1.in/sp/gol.png" group-title="â–ºEU | SPAIN SPORTS",SP - GOL TV 4K
