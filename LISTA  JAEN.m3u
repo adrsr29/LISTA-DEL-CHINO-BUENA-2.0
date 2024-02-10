@@ -64,8 +64,19 @@ http://extraott-iptv.com:88/7180490375/4314305273/165921
 #EXTINF:-1 tvg-id="Classica" tvg-name="SP - CLASSICA 4K" tvg-logo="https://lo1.in/sp/classica.png" group-title="DOCUMENTALES",SP - CLASSICA 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165920
 #EXTINF:-1 tvg-id="" tvg-name="##### SP - SPORTS #####" tvg-logo="https://lo1.in/sp/sp.png" group-title="â–ºEU | SPAIN SPORTS",##### SP - SPORTS #####
-#EXTINF:-1 tvg-id="" tvg-name="ES ORGO: M LALIGATV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13696.png?ver=29798" group-title="â–ºEU | SPAIN SPORTS",ES ORGO: M LALIGATV 4K
-http://cf.goldvpn.me:80/edb5ce7a80/636e71de70/658386
+#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-name="|ES| LALIGA TV BAR" tvg-logo="http://logo.solanaflix.com/images/logos/5iTtQUEdzJXVhUr7v4kT9oqb1vuOQtHXe8V3tbId9QaWMw3jW7bfTHmSpEQJOp88hTBJpLSRB0e28Q0Fd0WcMtt6SJ4keMisRQ8oC455IsIlQheDxOKGOxLaV7RVwOaD.png" group-title="ES - FUTBOL",|ES| LALIGA TV BAR
+http://cdn2.dnsvibe.com:8080/TV-84532819/864883500296/101682
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="|ES| DAZN LALIGA FHD (HEVC)" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA FHD (HEVC)
+http://cdn2.dnsvibe.com:8080/TV-84532819/864883500296/109316
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="|ES| DAZN LALIGA FHD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA FHD
+http://cdn2.dnsvibe.com:8080/TV-84532819/864883500296/109317
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="|ES| DAZN LALIGA" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA
+http://cdn2.dnsvibe.com:8080/TV-84532819/864883500296/109319
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="|ES| DAZN LALIGA 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA 2 HD
+http://cdn2.dnsvibe.com:8080/TV-84532819/864883500296/109320
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="|ES| DAZN LALIGA 2 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA 2 FHD
+http://cdn2.dnsvibe.com:8080/TV-84532819/864883500296/109321
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="|ES| DAZN LALIGA 2 SD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA 2 SD
 #EXTINF:-1 tvg-id="TDP.TV" tvg-name="TDP.TV" tvg-logo="https://lo1.in/sp/teledepo.png" group-title="â–ºEU | SPAIN SPORTS",SP - TELEDEPORTE HD
 http://extraott-iptv.com:88/7180490375/4314305273/165978
 #EXTINF:-1 tvg-id="GOL.TV" tvg-name="SP - GOL TV 4K" tvg-logo="https://lo1.in/sp/gol.png" group-title="â–ºEU | SPAIN SPORTS",SP - GOL TV 4K
