@@ -63,22 +63,54 @@ http://extraott-iptv.com:88/7180490375/4314305273/165990
 http://extraott-iptv.com:88/7180490375/4314305273/165921
 #EXTINF:-1 tvg-id="Classica" tvg-name="SP - CLASSICA 4K" tvg-logo="https://lo1.in/sp/classica.png" group-title="DOCUMENTALES",SP - CLASSICA 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165920
-#EXTINF:-1 tvg-id="" tvg-name="##### SP - SPORTS #####" tvg-logo="https://lo1.in/sp/sp.png" group-title="â–ºEU | SPAIN SPORTS",##### SP - SPORTS #####
-#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-name="|ES| LALIGA TV BAR" tvg-logo="http://logo.solanaflix.com/images/logos/5iTtQUEdzJXVhUr7v4kT9oqb1vuOQtHXe8V3tbId9QaWMw3jW7bfTHmSpEQJOp88hTBJpLSRB0e28Q0Fd0WcMtt6SJ4keMisRQ8oC455IsIlQheDxOKGOxLaV7RVwOaD.png" group-title="ES - FUTBOL",|ES| LALIGA TV BAR
-http://cdn2.dnsvibe.com:8080/TV-84532819/864883500296/101682
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="|ES| DAZN LALIGA FHD (HEVC)" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA FHD (HEVC)
-http://cdn2.dnsvibe.com:8080/TV-84532819/864883500296/109316
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="|ES| DAZN LALIGA FHD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA FHD
-http://cdn2.dnsvibe.com:8080/TV-84532819/864883500296/109317
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="|ES| DAZN LALIGA" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA
-http://cdn2.dnsvibe.com:8080/TV-84532819/864883500296/109319
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="|ES| DAZN LALIGA 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA 2 HD
-http://cdn2.dnsvibe.com:8080/TV-84532819/864883500296/109320
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="|ES| DAZN LALIGA 2 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA 2 FHD
-http://cdn2.dnsvibe.com:8080/TV-84532819/864883500296/109321
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="|ES| DAZN LALIGA 2 SD" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA 2 SD
-#EXTINF:-1 tvg-id="TDP.TV" tvg-name="TDP.TV" tvg-logo="https://lo1.in/sp/teledepo.png" group-title="â–ºEU | SPAIN SPORTS",SP - TELEDEPORTE HD
-http://extraott-iptv.com:88/7180490375/4314305273/165978
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES FHD
+http://853349155125246282.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/246282.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES HD
+http://853349155125165358.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/165358.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES SD
+http://853349155125165359.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/165359.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES FHD HEVC
+http://853349155125262412.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/262412.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 2 FHD
+http://853349155125165365.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/165365.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 2 HD
+http://853349155125282469.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/282469.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 2 SD
+http://853349155125282458.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/282458.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 3 HD
+http://853349155125282470.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/282470.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 3 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 3 HD (OP1)
+http://853349155125282471.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/282471.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 4 HD
+http://853349155125282472.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/282472.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 4 HD (OP1)
+http://853349155125282473.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/282473.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 5 HD
+http://853349155125282460.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/282460.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 5 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 5 HD (OP1)
+http://853349155125282461.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/282461.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 6 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 6 HD
+http://853349155125282462.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/282462.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 6 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 6 HD (OP1)
+http://853349155125282463.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/282463.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 7 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 7 HD
+http://853349155125282464.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/282464.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 7 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 7 HD (OP1)
+http://853349155125282465.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/282465.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 8 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-8-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 8 HD
+http://853349155125282466.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/282466.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: DAZN FORMULA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 FHD
+http://853349155125165418.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/165418.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: DAZN FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 HD
+http://853349155125165419.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/165419.ts
+#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA FHD
+http://853349155125165385.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/165385.ts
+#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA HD
+http://853349155125165392.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/165392.ts
+#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA SD
+http://853349155125165393.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/165393.ts
+#EXTINF:-1 tvg-id="0" tvg-name="ES: LA LIGA FHD (H 265)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: LA LIGA FHD (H 265)
+http://853349155125262413.ofd0203x.xyz:80/play/GGPY0213/GGPX6548/262413.ts
 #EXTINF:-1 tvg-id="GOL.TV" tvg-name="SP - GOL TV 4K" tvg-logo="https://lo1.in/sp/gol.png" group-title="â–ºEU | SPAIN SPORTS",SP - GOL TV 4K
 http://extraott-iptv.com:88/7180490375/4314305273/165892
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="SP - REAL MADRID TV UHD" tvg-logo="https://lo1.in/sp/rmatv.png" group-title="â–ºEU | SPAIN SPORTS",SP - REAL MADRID TV UHD
