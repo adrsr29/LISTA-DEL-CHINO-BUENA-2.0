@@ -386,6 +386,21 @@ http://extraott-iptv.com:88/7180490375/4314305273/189466
 http://extraott-iptv.com:88/7180490375/4314305273/189461
 #EXTINF:-1 tvg-id="" tvg-name="SP - MULTIDEPORTE UHD" tvg-logo="https://lo1.in/sp/multidepo.png" group-title="â–ºEU | SPAIN SPORTS",SP - MULTIDEPORTE UHD
 http://extraott-iptv.com:88/7180490375/4314305273/189465
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES| M+ LALIGATV BAR HD" tvg-logo="https://lo1.in/sp/lgtvbar.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGATV BAR HD
+http://ysgtmks.leadcool.xyz:80/4049990750/9905922480/400220778
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES| M+ LALIGA HD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA HD
+http://ysgtmks.leadcool.xyz:80/4049990750/9905922480/165970
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES| M+ LALIGA 2 HD" tvg-logo="https://lo1.in/sp/mvstlg2.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 2 HD
+http://ysgtmks.leadcool.xyz:80/4049990750/9905922480/5971
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES| M+ LALIGA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 3 HD
+http://ysgtmks.leadcool.xyz:80/4049990750/9905922480/5973
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="ES| M+ LALIGA 4 HD" tvg-logo="https://lo1.in/sp/mvstlg4.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 4 HD
+http://ysgtmks.leadcool.xyz:80/4049990750/9905922480/400220785
+#EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="ES| M+ LALIGA 5 HD" tvg-logo="https://lo1.in/sp/mvstlg6.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA 5 HD
+http://ysgtmks.leadcool.xyz:80/4049990750/9905922480/400220783
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGATV BAR SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGATV BAR SD
+http://ysgtmks.leadcool.xyz:80/4049990750/9905922480/10816
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES| M+ LALIGA SD" tvg-logo="https://lo1.in/sp/mliga.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA SD
 
 
 
